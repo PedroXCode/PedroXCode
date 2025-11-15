@@ -1,5 +1,5 @@
-<h1 align="center">⚡ ZALDRION // Cybersecurity & Code Defender 🛡️</h1>
-<p align="center">👨‍💻 Exploring networks, automations, and digital resilience.</p>
+<h1 align="center">💜 <b>ZALDRION</b> | <i>Cybersecurity • Code • Creativity</i> ⚙️</h1>
+<p align="center">Building, securing, and innovating in the digital world.</p>
 
 
 ### 💻 Lenguajes de Programación
