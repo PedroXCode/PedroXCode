@@ -1,5 +1,9 @@
-<h1 align="center">💜 <b>ZALDRION</b> | <i>Cybersecurity • Code • Creativity</i> ⚙️</h1>
-<p align="center">Building, securing, and innovating in the digital world.</p>
+<h1 align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGh3ODJhdGx4bTE2enBhbXdiZm40N2J5eHlpaGl1cTcxYWU2ZWF6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XDd5b7NUbS1C1PMjUl/giphy.gif" width="60">
+  ZALDRION | Cybersecurity & Programming
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGh3ODJhdGx4bTE2enBhbXdiZm40N2J5eHlpaGl1cTcxYWU2ZWF6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XDd5b7NUbS1C1PMjUl/giphy.gif" width="60">
+</h1>
+<p align="center">Exploring code, networks, and digital defense ⚙️</p>
 
 
 ### 💻 Lenguajes de Programación
