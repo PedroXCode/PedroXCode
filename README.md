@@ -1,6 +1,3 @@
-<p align="left">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1nY2wwMHJ1YmlxODRqYmlvMW50N241NTZoamE0eDJmemwxbWdiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13AOl3kaqF010I/giphy.gif" alt="Animación ZALDRION" width="200">
-</p>
 
 
 ## ⚙️ Tech Stack
@@ -15,6 +12,9 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="left">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1nY2wwMHJ1YmlxODRqYmlvMW50N241NTZoamE0eDJmemwxbWdiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13AOl3kaqF010I/giphy.gif" alt="Animación ZALDRION" width="200">
+</p>
 
 ### 🌐 Networking & Cybersecurity
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
