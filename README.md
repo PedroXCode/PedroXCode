@@ -1,4 +1,6 @@
-![ZALDRION Banner](https://imgur.com/a/Zh1H4w5)
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
+</p>
 
 ## ⚙️ Tech Stack
 
