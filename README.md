@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dmeDh1ZXU2MGFkand2azA2a2NpcHI4dTE2aTh5aXJobWFibm0zNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/ko7twHhomhk8E/giphy.gif" width="600">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGh3ODJhdGx4bTE2enBhbXdiZm40N2J5eHlpaGl1cTcxYWU2ZWF6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XDd5b7NUbS1C1PMjUl/giphy.gif" alt="Animación ZALDRION Cyber" width="300">
 </p>
-">
-</p>
-
-
 
 ## ⚙️ Tech Stack
 
