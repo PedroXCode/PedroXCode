@@ -1,7 +1,6 @@
 <h1 align="center">👾 Hi, I'm <span style="color:#8A2BE2;">ZALDRION</span> ⚙️</h1>
 <p align="center">Cybersecurity & Programming Enthusiast — Exploring networks, code, and digital defense.</p>
 
-
 ### 💻 Lenguajes de Programación
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
