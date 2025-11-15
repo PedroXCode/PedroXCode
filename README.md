@@ -1,5 +1,5 @@
-<h1 align="center">👾 Hi, I'm <span style="color:#8A2BE2;">ZALDRION</span> ⚙️</h1>
-<p align="center">Cybersecurity & Programming Enthusiast — Exploring networks, code, and digital defense.</p>
+<h1 align="center">⚡ ZALDRION // Cybersecurity & Code Defender 🛡️</h1>
+<p align="center">👨‍💻 Exploring networks, automations, and digital resilience.</p>
 
 
 ### 💻 Lenguajes de Programación
