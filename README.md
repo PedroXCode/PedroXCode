@@ -1,3 +1,5 @@
+![ZALDRION Banner](https://imgur.com/a/Zh1H4w5)
+
 ## ⚙️ Tech Stack
 
 ### 💻 Lenguajes de Programación
