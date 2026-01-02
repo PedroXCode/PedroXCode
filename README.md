@@ -13,8 +13,13 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem1nY2wwMHJ1YmlxODRqYmlvMW50N241NTZoamE0eDJmemwxbWdiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13AOl3kaqF010I/giphy.gif" alt="Animación ZALDRION" width="200">
 </p>
 
+
 ### 🌐 Networking & Cybersecurity
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff" width="120"/>
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+## 🧠 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroXCode&layout=compact&theme=tokyonight)
 
